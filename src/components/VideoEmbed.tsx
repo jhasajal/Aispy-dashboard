@@ -16,6 +16,7 @@ export default function VideoEmbed({ className }: PropsType) {
         <h2 className="text-body-2xlg font-bold text-dark dark:text-white">
           Camera Feed
         </h2>
+        <h6 className="underline text-blue"> <a href="https://brilliant-caramel-e2450a.netlify.app/demo/index.html" target="_blank">Expand</a>  </h6>
       </div>
 
       <iframe
